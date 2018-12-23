@@ -4,7 +4,7 @@ import requests
 import time
 import os
 
-InstaApi = InstagramAPI("bgrebennikovv", "25050032")
+InstaApi = InstagramAPI("bgrebennikovv", "2135135186")
 InstaApi.login()
 
 
